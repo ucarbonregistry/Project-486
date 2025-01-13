@@ -9,7 +9,25 @@ photovoltaic cells connected by circuits and sealed in an environmentally protec
 forms the fundamental building blocks of the complete PV generating unit. Several PV panels mounted
 on a frame are termed as PV Array. Thus, project activity leads to reduce the GHG emissions as it
 displaces power from fossil fuel-based electricity generation in the regional grid. 
-
+____________
+SPV Name /Total installed Capacity (DC) /Commissioning date
+________________
+Dharmendra Pukhraj / 1200.15 kW /30/09/2022 (first date of generation)
+________
+Sandipkumar Dharmendrakumar / 1200.15 kW /30/09/2022
+__________
+Dharmdeep Commodities Pvt. Ltd./ 1200.15 kW/ 03/10/2022
+_________
+Dharmendra P Jain/ 600.3 kW/ 03/10/2022
+________
+Nikkyben D Jain/  600.3 kW /03/10/2022
+_________
+Shrey D Jain/ 600.3 kW /03/10/2022
+_________
+Sandip P Jain/ 600.3 kW /03/10/2022
+__________
+Sweety S Jain / 600.3 kW /03/10/2022
+__________
 The estimated annual average and the total CO2e emission reduction by the project activity is expected
 to be 8406 tCO2e, whereas actual emission reduction achieved during the first CoU period shall be
 submitted as a part of first monitoring and verification.
@@ -34,6 +52,9 @@ generation”, version 18
 Standardized Methodology: Not Applicable.
 Sectoral scopes 01 Energy industries
 (Renewable/Non-Renewable Sources)
+________________________
+
+
 ______________
 SPV Name/ Village/ District/ Type/ Project location
 _________________
