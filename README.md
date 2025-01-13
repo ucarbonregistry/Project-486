@@ -1,6 +1,22 @@
 # Project-486
 Bundled Small Scale Solar Power Project by M/s Dharamdeep Commodities Pvt. Ltd. in Gujarat, India
+__________
+Project owner has signed power purchase agreement with Uttar Gujarat Vij Company Limited (UGVCL). With a total installed capacity of 6.6 MW (DC) the project
+activity uses Monocrystalline solar photovoltaic technology make by JINENERGY to generate clean
+energy. The generation of power from solar photovoltaic is a clean technology as there is no fossil fuel
+fired or no GHG gases are emitted during the process. Photovoltaic module consists of several
+photovoltaic cells connected by circuits and sealed in an environmentally protective laminate, which
+forms the fundamental building blocks of the complete PV generating unit. Several PV panels mounted
+on a frame are termed as PV Array. Thus, project activity leads to reduce the GHG emissions as it
+displaces power from fossil fuel-based electricity generation in the regional grid. 
 
+The estimated annual average and the total CO2e emission reduction by the project activity is expected
+to be 8406 tCO2e, whereas actual emission reduction achieved during the first CoU period shall be
+submitted as a part of first monitoring and verification.
+Since the project activity generates electricity through solar energy, a clean renewable energy source
+it will not cause any negative impact on the environment and thereby contributes to climate change
+mitigation efforts.
+__________________
 
 Scale of the project activity Small Scale
 
