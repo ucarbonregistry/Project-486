@@ -74,6 +74,8 @@ Sweety S Jain /Nidroda / Patan/ Ground Mounted /Latitude: 23°56'42.7"N Longitud
 _________________
 UCR ISSUANCE HISTORY
 
+Issue Date: 01/04/2025
+
 MP-01 :30/09/2022-31/12/2024
 
 QTY: 19060
