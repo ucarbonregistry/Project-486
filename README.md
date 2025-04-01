@@ -54,8 +54,6 @@ Sectoral scopes 01 Energy industries
 (Renewable/Non-Renewable Sources)
 ________________________
 
-
-______________
 SPV Name/ Village/ District/ Type/ Project location
 _________________
 Sandipkumar Dharmendrakumar/ Nidroda/ Patan/Ground Mounted /Latitude: 23°56'52.5"N Longitude: 72°11'27.3"E
@@ -74,3 +72,27 @@ Sandip P Jain /Nidroda/ Patan /Ground Mounted /Latitude: 23°56'44.4"N Longitude
 ______________
 Sweety S Jain /Nidroda / Patan/ Ground Mounted /Latitude: 23°56'42.7"N Longitude: 72°11'28.1"E
 _________________
+UCR ISSUANCE HISTORY
+
+MP-01 :30/09/2022-31/12/2024
+
+QTY: 19060
+________________
+Serial Number: 0001-000001-002201-UCR-CoU-IN-486-30092022-31122022
+
+Vintage Year: 2022
+
+Quantity: 2201
+____________
+Serial Number: 0001-002202-011487-UCR-CoU-IN-486-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 9286
+___________
+Serial Number: 0001-011488-019060-UCR-CoU-IN-486-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 7573
+____________
